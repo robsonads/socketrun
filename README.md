@@ -1,7 +1,7 @@
 # socketrun
-Un exemple basic about socket.
+Un exemple basic about socket. <br />
 
-The highlights is:
+The highlights is: <br />
 • Basics of sockets <br />
 • Working with TCP sockets <br />
 • Working with UDP sockets <br />
