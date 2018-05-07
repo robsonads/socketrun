@@ -2,7 +2,9 @@
 Un exemple basic about socket.
 
 The highlights is:
-• Basics of sockets
-• Working with TCP sockets
-• Working with UDP sockets
-• TCP port forwarding
+• Basics of sockets <br />
+• Working with TCP sockets <br />
+• Working with UDP sockets <br />
+• TCP port forwarding <br />
+
+Client/server interaction through socket
