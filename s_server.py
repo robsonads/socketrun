@@ -48,7 +48,7 @@ if __name__ == '__main__':
            data = client_sock.recv(buffer)
            #Caso nao exista dados ou o decode nao seja utf-8
            #O processo sera encerrado
-           if not data or not data.decode('utf-8'):
+           if not data or not data.decode('utf-8'): 
                break
            #Mostra o horario que a mensagem foi recebida pelo servidor
            print("["+ time +" CLIENTE] mensagem recebida: %s "  %data.decode('utf-8'))
