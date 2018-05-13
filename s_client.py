@@ -41,7 +41,7 @@ if __name__ == '__main__':
            #Dados recebidos do servidor
            data = client_sock.recv(buffer)
            #Mostra as mensgens do servidor
-           print('Mensagen recebida', data)
+           print('Mensagem recebida', data)
    except socket_error as err:
         print("Erro durante a comunicacao %s " % err)
 
